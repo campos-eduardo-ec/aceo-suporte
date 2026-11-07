@@ -1,0 +1,25 @@
+{
+  "name": "Banco do Brasil [Aeroportos BR]",
+  "description": "Brazilian bank represented through the native game loan system.",
+  "customDescription": {
+    "pt-BR": "Banco brasileiro representado no sistema nativo de empréstimos do jogo.",
+    "en": "Brazilian bank represented through the native game loan system."
+  },
+  "logoPath": "BancoDoBrasil.png",
+  "invLogoPath": "BancoDoBrasil_INV.png",
+  "businessType": 3,
+  "businessClass": 1,
+  "CEOName": "Diretoria / Management",
+  "backgroundColor": {
+    "r": 18,
+    "g": 38,
+    "b": 58,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Afonso França Engenharia [Aeroportos BR]",
+  "description": "Engineering and construction including airport projects.",
+  "customDescription": {
+    "pt-BR": "Engenharia e construção, incluindo obras aeroportuárias.",
+    "en": "Engineering and construction including airport projects."
+  },
+  "logoPath": "AfonsoFranca.png",
+  "invLogoPath": "AfonsoFranca_INV.png",
+  "businessType": 1,
+  "businessClass": 1,
+  "CEOName": "Diretoria / Management",
+  "backgroundColor": {
+    "r": 18,
+    "g": 38,
+    "b": 58,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

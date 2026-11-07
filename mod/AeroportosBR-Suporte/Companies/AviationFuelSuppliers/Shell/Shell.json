@@ -1,0 +1,25 @@
+{
+  "name": "Shell Aviation Brasil [Aeroportos BR]",
+  "description": "Shell aviation fuel supply in Brazil, operated by Raizen.",
+  "customDescription": {
+    "pt-BR": "Abastecimento de aviação Shell, operado no Brasil pela Raízen.",
+    "en": "Shell aviation fuel supply in Brazil, operated by Raizen."
+  },
+  "logoPath": "Shell.png",
+  "invLogoPath": "Shell_INV.png",
+  "businessType": 2,
+  "businessClass": 3,
+  "CEOName": "Diretoria / Management",
+  "backgroundColor": {
+    "r": 18,
+    "g": 38,
+    "b": 58,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

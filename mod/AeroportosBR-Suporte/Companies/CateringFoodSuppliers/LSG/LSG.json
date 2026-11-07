@@ -1,0 +1,25 @@
+{
+  "name": "LSG Sky Chefs Brasil [Aeroportos BR]",
+  "description": "Airline catering with Brazilian operations.",
+  "customDescription": {
+    "pt-BR": "Catering aéreo com operações no Brasil.",
+    "en": "Airline catering with Brazilian operations."
+  },
+  "logoPath": "LSG.png",
+  "invLogoPath": "LSG_INV.png",
+  "businessType": 6,
+  "businessClass": 2,
+  "CEOName": "Diretoria / Management",
+  "backgroundColor": {
+    "r": 18,
+    "g": 38,
+    "b": 58,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

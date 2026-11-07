@@ -1,0 +1,16 @@
+{
+  "id": "9e31639f-0c4f-5794-b7a0-217b3afd79a2",
+  "publishedFileId": 3832501546,
+  "name": "Aeroportos BR – Brazilian Airport Essentials",
+  "description": "[h1]Aeroportos BR – Brazilian Airport Essentials[/h1]\n[b]10 real companies represented through the native support-business systems.[/b]\n[list]\n[*]Fuel: Vibra / BR Aviation and Shell Aviation Brasil.\n[*]Catering: LSG Sky Chefs Brasil and gategourmet Brasil.\n[*]Banks: Banco do Brasil, Bradesco, Itaú and CAIXA.\n[*]Contractors: HTB Engenharia and Afonso França Engenharia.\n[/list]\nActivate in Mods and restart. Companies become available through the usual fuel, catering, bank and contractor interfaces when the game's progress and contracts allow them. No code, Mod Loader or other Aeroportos BR pack is required. Existing contracts are not replaced.\nBank interest, fuel prices, catering and construction parameters use the game's class-based balancing: they do not reproduce real offers or prices. These banks are lending businesses, not passenger bank branches. Catering companies serve aircraft, not food-court rooms. No services rooms, rental yards or new vehicles are added. Names end in [Aeroportos BR] to avoid overriding names from older mods; enabling both may show similar brands twice.\n[hr][/hr]\n[h1]Aeroportos BR – Empresas de suporte brasileiras[/h1]\n[b]10 empresas reais nos sistemas nativos de suporte do aeroporto.[/b] Vibra/BR Aviation e Shell no combustível; LSG Sky Chefs e gategourmet no catering; Banco do Brasil, Bradesco, Itaú e CAIXA nos bancos; HTB e Afonso França nas empreiteiras.\nAtive em Mods e reinicie. Ofertas aparecem nas telas normais conforme os desbloqueios e as regras do jogo. Funciona sozinho, sem código ou Mod Loader. Não substitui contratos já assinados.\nPreços, juros e eficiência seguem o balanceamento do jogo, não condições comerciais reais. Bancos oferecem empréstimos ao aeroporto; não são agências de atendimento ao passageiro. Catering atende aeronaves, não lojas. O pacote não reativa Serviços/Locadora/Hotel e não acrescenta veículos. O sufixo [Aeroportos BR] evita sobrescrever empresas de outros mods; usar os dois pode mostrar marcas parecidas em duplicidade.\nFan-made; no affiliation with the brands. Names and logos belong to their respective owners. / Mod feito por fã, sem vínculo com as marcas.",
+  "author": "Eduardo Campos",
+  "version": "0.1.1",
+  "iconFileName": "Icon.png",
+  "modType": "Businesses",
+  "tags": [
+    "Aviation Fuel Supplier",
+    "Catering Food Supplier",
+    "Bank",
+    "Contractor"
+  ]
+}

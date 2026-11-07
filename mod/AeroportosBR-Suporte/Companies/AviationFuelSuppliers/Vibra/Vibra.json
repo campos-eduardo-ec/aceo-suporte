@@ -1,0 +1,25 @@
+{
+  "name": "Vibra - BR Aviation [Aeroportos BR]",
+  "description": "Aviation fuel supplier represented by Vibra / BR Aviation.",
+  "customDescription": {
+    "pt-BR": "Distribuição de combustível de aviação pela Vibra/BR Aviation.",
+    "en": "Aviation fuel supplier represented by Vibra / BR Aviation."
+  },
+  "logoPath": "Vibra.png",
+  "invLogoPath": "Vibra_INV.png",
+  "businessType": 2,
+  "businessClass": 2,
+  "CEOName": "Diretoria / Management",
+  "backgroundColor": {
+    "r": 18,
+    "g": 38,
+    "b": 58,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}
